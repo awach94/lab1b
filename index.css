@@ -1,0 +1,24 @@
+body {background: #3D3D3D;}
+table, td {border: 1px solid white;}
+a img {border: none;}
+h1 {color:#FFFFFF}
+p {color:#FF7F00}
+h2 {color:#FF7F00}
+table {color:#FF7F00}
+ul {color:#FF7F00}
+li {color:#FF7F00}
+a:link {color: #0066CC;}
+a:visited {color: #CCCCFF;}
+#cont
+{
+ width: 100%;
+}
+
+@media only screen and (max-width: 680px)
+{
+  p{color:red}
+  #cont{
+    width: 100%;
+     padding: 1;
+ }
+} 
